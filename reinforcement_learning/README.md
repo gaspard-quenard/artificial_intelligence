@@ -1,0 +1,1 @@
+The folder "exercices reinforcement learning book" contains my implementations for the exercices provided by the book : "Reinforcement Learning An Introduction, second edition" by Richard S. Sutton and Andrew G. Barto.

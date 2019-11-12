@@ -1,6 +1,6 @@
-I use Q learning (or sarsa learning) to resolve the following puzzle:
+I use Q learning to resolve the following puzzle:
 
-![Alt text](puzzle.png "Puzzle")
+![Alt text](puzzle.jpg "Puzzle")
 
 The goal of the agent is to find how to move the pieces to lead the green piece to the terminal state (position y: 3, position x: 2)
 
